@@ -1,4 +1,4 @@
-HBase Indexer
+HBase Indexer-yangxiaofei
 =============
 
 HBase Indexer allows you to easily and quickly index HBase rows into Solr.
